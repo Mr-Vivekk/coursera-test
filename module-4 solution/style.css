@@ -1,0 +1,22 @@
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+
+*{
+    background-color: rgba(129, 181, 167, 0.52);
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    
+}
+
+h3{
+    
+    color: white;
+    text-align: center;
+}
